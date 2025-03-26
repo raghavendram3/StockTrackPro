@@ -63,4 +63,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - Stock data provided by Yahoo Finance
-- Built with ❤️ by [Your Name]
+- Built with ❤️ by Raghavendra
