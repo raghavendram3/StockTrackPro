@@ -2,7 +2,7 @@ import streamlit as st
 
 # Configure page
 st.set_page_config(
-    page_title="My Website",
+    page_title="Raghavendra's App Portfolio",
     page_icon="🏠",
     layout="wide"
 )
@@ -29,4 +29,4 @@ with col2:
     
 # Footer
 st.markdown("---")
-st.caption("© 2025 My Website. All rights reserved.")
+st.caption("© 2025 Raghavendra. All rights reserved.")
