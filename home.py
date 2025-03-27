@@ -2,13 +2,13 @@ import streamlit as st
 
 # Configure page
 st.set_page_config(
-    page_title="Raghavendra's App Portfolio",
+    page_title="App Portfolio",
     page_icon="🏠",
     layout="wide"
 )
 
 # Header section
-st.title("🏠 Welcome to My Website")
+st.title("🏠 App Portfolio")
 st.markdown("This is the main homepage for my website with multiple applications.")
 
 # Main content
