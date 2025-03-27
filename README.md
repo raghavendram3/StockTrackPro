@@ -12,7 +12,7 @@ A powerful web application for stock analysis and visualization built with Strea
 
 ## Live Demo
 
-[Access StockTrackPro here](https://stocktrackpro.streamlit.app) *(Update this link once deployed)*
+[Access StockTrackPro here](https://stocktrackpro.streamlit.app)
 
 ## Installation
 
